@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Work-in-progress"
+    url: /wip/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Code"
+    url: /code/
+ 
+  - title: "CV"
+    url: /cv/

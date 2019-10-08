@@ -1,0 +1,1239 @@
+I"qp
+<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="http://localhost:4000/sitemap.xml">XML version</a> available for digesting as well.</p>
+
+<h2>Pages</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/404.html" rel="permalink">Page Not Found</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Page not found. Your pixels are in another canvas.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>About me</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/archive-layout-with-content/" rel="permalink">Archive Layout with Content</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/categories/" rel="permalink">Posts by Category</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/code/" rel="permalink">Code</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/collection-archive/" rel="permalink">Posts by Collection</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/cv/" rel="permalink">CV</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/assets/css/main.css" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/markdown/" rel="permalink">Markdown</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/non-menu-page/" rel="permalink">Page not in menu</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>This is a page not in th emain menu</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/page-archive/" rel="permalink">Page Archive</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/portfolio/" rel="permalink">Portfolio</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publications/" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/sitemap/" rel="permalink">Sitemap</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/tags/" rel="permalink">Posts by Tags</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talkmap.html" rel="permalink">Talk map</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/" rel="permalink">Talks and presentations</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/" rel="permalink">Teaching</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/terms/" rel="permalink">Terms and Privacy Policy</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/wip/" rel="permalink">Work-in-progress</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/year-archive/" rel="permalink">Blog posts</a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/about/" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/about.html" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/resume" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/md/" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/markdown.html" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/nmp/" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/nmp.html" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/wordpress/blog-posts/" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/redirects.json" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/sitemap.xml" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/robots.txt" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/feed.xml" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/assets/css/main.css.map" rel="permalink"></a>
+      
+    </h2>
+    
+    
+
+        
+
+    
+    
+    
+
+  </article>
+</div>
+
+<h2>Posts</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/posts/2012/08/blog-post-4/" rel="permalink">Blog Post number 4
+</a>
+      
+    </h2>
+    
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  less than 1 minute read
+	
+</p>
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2015-08-14T00:00:00-07:00">August 14, 2015</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/posts/2014/08/blog-post-3/" rel="permalink">Blog Post number 3
+</a>
+      
+    </h2>
+    
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  less than 1 minute read
+	
+</p>
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2014-08-14T00:00:00-07:00">August 14, 2014</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/posts/2013/08/blog-post-2/" rel="permalink">Blog Post number 2
+</a>
+      
+    </h2>
+    
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  less than 1 minute read
+	
+</p>
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2013-08-14T00:00:00-07:00">August 14, 2013</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/posts/2012/08/blog-post-1/" rel="permalink">Blog Post number 1
+</a>
+      
+    </h2>
+    
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  less than 1 minute read
+	
+</p>
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2012-08-14T00:00:00-07:00">August 14, 2012</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<h2>code</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/code/financegrowth" rel="permalink">Financegrowth
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-10-08T10:26:14-07:00">October 08, 2019</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><h3 id="finance-growth-code-zip">Finance growth code .zip</h3>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<h2>portfolio</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/portfolio/portfolio-1/" rel="permalink">Portfolio item number 1
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-10-08T10:26:14-07:00">October 08, 2019</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Short description of portfolio item number 1<br /><img src="/images/500x300.png" /></p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/portfolio/portfolio-2/" rel="permalink">Portfolio item number 2
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-10-08T10:26:14-07:00">October 08, 2019</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Short description of portfolio item number 2 <br /><img src="/images/500x300.png" /></p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<h2>publications</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/fingrowth" rel="permalink">What type of finance matters for growth? Bayesian model averaging evidence
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>The World Bank Economic Review</i>, 2018 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description">
+</p>
+    
+    
+    
+      <p>Recommended citation: Iftekhar Hasan, Roman Horvath, Jan Mares, What Type of Finance Matters for Growth? Bayesian Model Averaging Evidence, The World Bank Economic Review, Volume 32, Issue 2, June 2018, Pages 383–409 <a href="https://academic.oup.com/wber/article/32/2/383/2897443/"><u>https://academic.oup.com/wber/article/32/2/383/2897443/</u></a></p>
+    
+
+  </article>
+</div>
+
+<h2>talks</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2012-03-01-talk-1" rel="permalink">Talk 1 on Relevant Topic in Your Field
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2012-03-01T00:00:00-07:00">March 01, 2012</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2013-03-01-tutorial-1" rel="permalink">Tutorial 1 on Relevant Topic in Your Field
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2013-03-01T00:00:00-07:00">March 01, 2013</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p><a href="http://exampleurl.com">More information here</a></p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2014-02-01-talk-2" rel="permalink">Talk 2 on Relevant Topic in Your Field
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2014-02-01T00:00:00-07:00">February 01, 2014</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p><a href="http://example2.com">More information here</a></p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2014-03-01-talk-3" rel="permalink">Conference Proceeding talk 3 on Relevant Topic in Your Field
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2014-03-01T00:00:00-07:00">March 01, 2014</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<h2>teaching</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2014-spring-teaching-1" rel="permalink">Teaching experience 1
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p> Undergraduate course, <i>University 1, Department</i>, 2014 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>This is a description of a teaching experience. You can use markdown like any other post.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2015-spring-teaching-1" rel="permalink">Teaching experience 2
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p> Workshop, <i>University 1, Department</i>, 2015 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>This is a description of a teaching experience. You can use markdown like any other post.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<h2>wip</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/wip/20190501%20illicit%20financial%20flows%20and%20trade%20reporting%20gap/" rel="permalink">20190501 illicit financial flows and trade reporting gap
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-10-08T10:26:14-07:00">October 08, 2019</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><h3 id="illicit-financial-flows-and-trade-mispricing-decomposing-the-trade-reporting-gap-with-a-cobham-p-jansky">Illicit Financial Flows and Trade Mispricing: Decomposing the Trade Reporting Gap (with A. Cobham, P. Jansky)</h3>
+<p>Trade mispricing is a real phenomenon, documented by numerous case studies, and identified as a major risk to international development. What is less clear is the scale of illicit financial outflows contained within any given pattern of mispricing, because there are multiple reasons for distortions in the data, and because individual methodologies may not allow clear separation of these. In this paper we review critically the existing methodologies to estimate trade mispricing. We find that some studies providing estimates for many countries are not reliable; while some studies using confidential customs data provide more robust findings that are unlikely to be easily replicated soon for many, especially low-income, countries. Both streams of literature are unsatisfactory since they do not provide us with an answer to the question of the scale of illicit financial flows due to trade mispricing, either globally or facing low-income countries in particular. The relatively novel focus of our review on decomposing the trade reporting gap into its component elements suggests a new methodological approach, which may combine robustness and broad coverage of countries. To this end, we present an explorative analysis using UN Comtrade data.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/wip/20190801%20tax%20benefit%20model/" rel="permalink">20190801 tax benefit model
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-10-08T10:26:14-07:00">October 08, 2019</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><h3 id="changes-in-the-czech-tax-benefit-system-long-run-effects-with-v-jacina">Changes in the Czech Tax-benefit System: Long-run Effects (with V. Jacina)</h3>
+<p>We provide a methodological overview of the framework for assessing the long-run impact of the changes in tax-benefit system. The framework has three related building blocks. The first one is a microsimulation tool of the tax-benefit system which accounts for most of the taxes and benefits featured in the Czech welfare system. The second block employs the output of microsimulation tool to estimate consequent change in the labour supply of the individuals. It is a structural probit model which assigns probability of participation in the labour market to individuals based on their socio-demographic characteristics, wage, and non-labour income. The third block is a simple general equilibrium model where it is possible to model long-run macroeconomic relationships between gross domestic product, gross wage bill, net disposable income of households, and other macroeconomic indicators. Although we do not explicitly compute distributional impact of the simulated scenarios, the framework could be easily extended in this direction.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/wip/20191008%20finance%20and%20wealth%20inequality/" rel="permalink">20191008 finance and wealth inequality
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-10-08T10:26:14-07:00">October 08, 2019</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><h3 id="finance-and-wealth-inequality-with-i-hasan-r-horvath">Finance and Wealth Inequality (with I. Hasan, R. Horvath)</h3>
+<p>Using a global sample, this paper investigates the determinants of wealth inequality capturing various economic, financial, political, institutional, and geographical indicators. Using instrumental variable Bayesian model averaging, it reveals that only a handful of indicators robustly matter, and finance plays a key role. It reports that while financial depth increases wealth inequality, efficiency and access to finance reduce inequality. In addition, redistribution and education are associated with lower inequality whereas wars and openness to international trade contribute to greater wealth inequality.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+:ET
