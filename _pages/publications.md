@@ -1,6 +1,7 @@
 ---
-layout: archive
+layout: single
 title: ""
+excerpt: "Publications"
 permalink: /publications/
 author_profile: true
 ---

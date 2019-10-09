@@ -87,7 +87,7 @@ author:
   employer         : #"Charles University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kOJO4kMAAAAJ&hl=en"
-  email            : "jan.mares[AT]fsv.cuni.cz"
+  email            : "jan.mares@fsv.cuni.cz"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -184,9 +184,18 @@ collections:
   wip:
     output: true
     permalink: /:collection/:path/
-  code:
+  # conferences:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # grants:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # code:
+  #   output: true
+  #   permalink: /:collection/:path/
+  wp:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/ 
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -232,17 +241,44 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _wip
+      comments: false
+  # _wp
   - scope:
       path: ""
-      type: wip
-      values:
-      layout: collection
+      type: wp
+    values:
+      layout: single
       author_profile: true
-      share: false
-      comments: false
-  # _code
+      share: true
+      comments: true
+  # # _wip
+  # - scope:
+  #     path: ""
+  #     type: wip
+  #     values:
+  #     layout: collection
+  #     author_profile: true
+  #     share: false
+  #     comments: false
+  # # _conferences
+  # - scope:
+  #     path: ""
+  #     type: conferences
+  #     values:
+  #     layout: single
+  #     author_profile: true
+  #     share: false
+  #     comments: false
+  # # _grants
+  # - scope:
+  #     path: ""
+  #     type: grants
+  #     values:
+  #     layout: single
+  #     author_profile: true
+  #     share: false
+  #     comments: false
+  # # _code
   - scope:
       path: ""
       type: code

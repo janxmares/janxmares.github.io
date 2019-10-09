@@ -5,6 +5,6 @@ permalink: /publication/fingrowth
 date: 2018-10-01
 venue: 'The World Bank Economic Review'
 paperurl: 'http://bit.ly/31ZEvUX'
-citation: 'Iftekhar Hasan, Roman Horvath, Jan Mares, What Type of Finance Matters for Growth? Bayesian Model Averaging Evidence, The World Bank Economic Review, Volume 32, Issue 2, June 2018, Pages 383–409'
+citation: 'Hasan, I., Horvath, R., & Mares, J. (2018). What Type of Finance Matters for Growth? Bayesian Model Averaging Evidence. World Bank Economic Review, 32(2), 383-409.'
 ---
 
