@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "Conferences"
+title: ""
 permalink: /conferences/
 author_profile: true
 ---
+
+# Conferences
 
 ### 9 / 2019 COFFERS Dissemination Conference, Vienna
 

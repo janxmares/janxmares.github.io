@@ -1,19 +1,20 @@
 ---
-layout: archive
-title: "Teaching"
+layout: single
+title: ""
+excerpt: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+# Teaching
 
 ### IES FSV UK, Prague
 
-2018/19 Principles of Economics II, lecturer 
+2019	[Principles of Economics II](https://is.cuni.cz/studium/predmety/index.php?id=94fdeac5d8c829836f77d9cc448e316f&tid=&do=predmet&kod=JEB102){:target="_blank"}
 
-2015+ Macroeconomics I, teaching assistant
+2015+	[Macroeconomics I](https://is.cuni.cz/studium/predmety/index.php?id=94fdeac5d8c829836f77d9cc448e316f&tid=&do=predmet&kod=JEB114){:target="_blank"}
 
-2015+ Macroeconomics II, teaching assistant
+2015+	[Macroeconomics II](https://is.cuni.cz/studium/predmety/index.php?id=94fdeac5d8c829836f77d9cc448e316f&tid=&do=predmet&kod=JEB115){:target="_blank"}
 
 <!--
 FOR USING COLLECTION

@@ -1,5 +1,5 @@
 ---
-title: "Cyclical Adjustment of the Government Balance"
+title: 'Cyclical Adjustment of the Government Balance'
 collection: wp
 permalink: /wp/mfcrsaldo
 date: 2015-11-01

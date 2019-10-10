@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "Code"
+title: ""
 permalink: /code/
 author_profile: true
 ---
 
-{% include base_path %}
+# Code
 
-This is where you can download codes that were used in my projects.
+This is where you will be able to download codes from my projects.
 
-### Finance and growth
-The files are available in .zip
+## Finance and inequality
+Please refer to my GitHub account for now.
+

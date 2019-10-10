@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : ""
+title                    : "Jan Mareš"
+title_separator          : "-"
 name                     : &name "Jan Mareš"
 description              : &description "Ph.D. candidate, Charles University"
 url                      : "https://janxmares.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
