@@ -7,6 +7,8 @@ author_profile: true
 
 # Conferences
 
+### 11 / 2019 EÚSAV Workshop Capital Flight and Its Impact on the Slovak Economy, Smolenice
+
 ### 9 / 2019 COFFERS Dissemination Conference, Vienna
 
 ### 8 / 2019 [75th Annual Congress of the International Institute of Public Finance](https://www.gla.ac.uk/events/iipf2019/), Glasgow
