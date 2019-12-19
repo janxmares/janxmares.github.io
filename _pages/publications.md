@@ -14,6 +14,10 @@ author_profile: true
 
 # Journal articles
 
+{% for post in site.forthcoming reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}

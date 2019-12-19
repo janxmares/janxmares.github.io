@@ -178,9 +178,15 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  forthcoming:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
+  wp:
+    output: true
+    permalink: /:collection/:path/ 
   wip:
     output: true
     permalink: /:collection/:path/
@@ -193,9 +199,6 @@ collections:
   # code:
   #   output: true
   #   permalink: /:collection/:path/
-  wp:
-    output: true
-    permalink: /:collection/:path/ 
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -233,6 +236,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _forthcoming
+  - scope:
+      path: ""
+      type: forthcoming
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -251,6 +263,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
   # # _wip
   # - scope:
   #     path: ""

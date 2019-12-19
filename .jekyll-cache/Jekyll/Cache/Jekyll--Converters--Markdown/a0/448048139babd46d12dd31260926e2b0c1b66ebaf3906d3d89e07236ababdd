@@ -1,4 +1,4 @@
-I"Ä
+I"SÄ
 <p>A list of all the posts and pages found on the site. For you robots out there is an <a href="http://localhost:4000/sitemap.xml">XML version</a> available for digesting as well.</p>
 
 <h2>Pages</h2>
@@ -916,6 +916,37 @@
   </article>
 </div>
 
+<h2>forthcoming</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/forthcoming/finwealth" rel="permalink">Finance and Wealth Inequality
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Forthcoming in <i>Journal of International Money and Finance</i></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description">
+</p>
+    
+    
+    
+      <p>Recommended citation: Hasan, I., Horvath, R., &amp; Mares, J. (forthcoming). "Finance and Wealth Inequality," Journal of International Money and Finance. <a href="http://bit.ly/30VNJjv"><u>http://bit.ly/30VNJjv</u></a></p>
+    
+
+  </article>
+</div>
+
 <h2>portfolio</h2>
 
 <div class="list__item">
@@ -932,7 +963,7 @@
     
 
         
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-12-10T06:19:20-08:00">December 10, 2019</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-12-19T05:42:59-08:00">December 19, 2019</time></p>
         
 
     
@@ -959,7 +990,7 @@
     
 
         
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-12-10T06:19:20-08:00">December 10, 2019</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-12-19T05:42:59-08:00">December 19, 2019</time></p>
         
 
     
@@ -1130,7 +1161,7 @@
 
         
           <p> Undergraduate course, <i>University 1, Department</i>, 2014 </p>
-        
+	
 
     
     <p class="archive__item-excerpt" itemprop="description"><p>This is a description of a teaching experience. You can use markdown like any other post.</p>
@@ -1157,7 +1188,7 @@
 
         
           <p> Workshop, <i>University 1, Department</i>, 2015 </p>
-        
+	
 
     
     <p class="archive__item-excerpt" itemprop="description"><p>This is a description of a teaching experience. You can use markdown like any other post.</p>
@@ -1185,7 +1216,7 @@
     
 
         
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-12-10T06:19:20-08:00">December 10, 2019</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-12-19T05:42:59-08:00">December 19, 2019</time></p>
         
 
     
@@ -1213,7 +1244,7 @@
     
 
         
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-12-10T06:19:20-08:00">December 10, 2019</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-12-19T05:42:59-08:00">December 19, 2019</time></p>
         
 
     
@@ -1233,7 +1264,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="http://localhost:4000/wip/20191008%20finance%20and%20wealth%20inequality/" rel="permalink">20191008 finance and wealth inequality
+        <a href="http://localhost:4000/wip/20191008%20financial%20development%20and%20income%20inequality/" rel="permalink">20191008 financial development and income inequality
 </a>
       
     </h2>
@@ -1241,12 +1272,12 @@
     
 
         
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-12-10T06:19:20-08:00">December 10, 2019</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2019-12-19T05:42:59-08:00">December 19, 2019</time></p>
         
 
     
-    <p class="archive__item-excerpt" itemprop="description"><h3 id="finance-and-wealth-inequality-with-i-hasan-r-horvath">Finance and Wealth Inequality (with I. Hasan, R. Horvath)</h3>
-<p>Using a global sample, this paper investigates the determinants of wealth inequality capturing various economic, financial, political, institutional, and geographical indicators. Using instrumental variable Bayesian model averaging, it reveals that only a handful of indicators robustly matter, and finance plays a key role. It reports that while financial depth increases wealth inequality, efficiency and access to finance reduce inequality. In addition, redistribution and education are associated with lower inequality whereas wars and openness to international trade contribute to greater wealth inequality.</p>
+    <p class="archive__item-excerpt" itemprop="description"><h3 id="financial-development-and-income-inequality">Financial Development and Income Inequality</h3>
+<p>We investigate the impact of financial development on income inequality differentiating between depth, efficiency and access to financial markets and institutions. We apply panel Bayesian model averaging framework to address model uncertainty to reveal that financial development has complex influence on the income distribution within countries. The access to and efficiency of banking decrease income inequality. The size of the markets has no influence on overall income inequality, but contributes to the increasing top income shares. Moreover, unemployment along with investment into non-tangible assets increase income inequality while higher redistribution and physical capital investment imply lower levels of inequality.</p>
 </p>
     
     
@@ -1339,35 +1370,6 @@
     
     
       <p>Recommended citation: Lang, L., &amp; Mare≈°, J. (2015). Cyclical adjustment of the government balance. Information paper, 1, 2015. <a href="http://bit.ly/33m9t9N"><u>http://bit.ly/33m9t9N</u></a></p>
-    
-
-  </article>
-</div>
-
-<div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-    
-
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/wp/finwealth" rel="permalink">Finance and Wealth Inequality
-</a>
-      
-    </h2>
-    
-    
-
-        
-          <p>Published in <i>IES Working Paper series</i>, 2018 </p>
-        
-
-    
-    <p class="archive__item-excerpt" itemprop="description">
-</p>
-    
-    
-    
-      <p>Recommended citation: Iftekhar Hasan &amp; Roman Horvath &amp; Jan Mares, 2018. "Finance and Wealth Inequality," Working Papers IES 2018/35, Charles University Prague, Faculty of Social Sciences, Institute of Economic Studies, revised Dec 2018 <a href="http://bit.ly/30VNJjv"><u>http://bit.ly/30VNJjv</u></a></p>
     
 
   </article>

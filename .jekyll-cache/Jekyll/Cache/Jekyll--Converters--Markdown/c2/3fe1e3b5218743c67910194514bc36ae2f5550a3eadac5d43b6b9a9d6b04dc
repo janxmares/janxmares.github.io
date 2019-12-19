@@ -1,5 +1,34 @@
-I"
+I"€
 <h1 id="journal-articles">Journal articles</h1>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/forthcoming/finwealth" rel="permalink">Finance and Wealth Inequality
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Forthcoming in <i>Journal of International Money and Finance</i></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description">
+</p>
+    
+    
+    
+      <p>Recommended citation: Hasan, I., Horvath, R., &amp; Mares, J. (forthcoming). "Finance and Wealth Inequality," Journal of International Money and Finance. <a href="http://bit.ly/30VNJjv"><u>http://bit.ly/30VNJjv</u></a></p>
+    
+
+  </article>
+</div>
 
 <div class="list__item">
   <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
@@ -56,35 +85,6 @@
     
     
       <p>Recommended citation: Jacina, V., Mare≈°, J.,(forthcoming). Changes in The Czech Tax-benefit System Long-run Effects. Ministry of Finance, Czech Republic, (tbd). <a href="tbd"><u>tbd</u></a></p>
-    
-
-  </article>
-</div>
-
-<div class="list__item">
-  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-    
-
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/wp/finwealth" rel="permalink">Finance and Wealth Inequality
-</a>
-      
-    </h2>
-    
-    
-
-        
-          <p>Published in <i>IES Working Paper series</i>, 2018 </p>
-        
-
-    
-    <p class="archive__item-excerpt" itemprop="description">
-</p>
-    
-    
-    
-      <p>Recommended citation: Iftekhar Hasan &amp; Roman Horvath &amp; Jan Mares, 2018. "Finance and Wealth Inequality," Working Papers IES 2018/35, Charles University Prague, Faculty of Social Sciences, Institute of Economic Studies, revised Dec 2018 <a href="http://bit.ly/30VNJjv"><u>http://bit.ly/30VNJjv</u></a></p>
     
 
   </article>
