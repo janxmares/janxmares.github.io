@@ -2,9 +2,9 @@
 title: 'Changes in the Czech Tax-benefit System Long-run Effects'
 collection: wp
 permalink: /wp/mmmodel
-date: 2019-10-01
+date: 2020-80-01
 venue: 'Ministry of Finance Working Paper series'
-paperurl: 'tbd'
-citation: 'Jacina, V., Mareš, J.,(forthcoming). Changes in The Czech Tax-benefit System Long-run Effects. Ministry of Finance, Czech Republic, (tbd).'
+paperurl: 'http://bit.ly/2N7Glxx'
+citation: 'Jacina, V., Mareš, J.,(2020). Changes in The Czech Tax-benefit System: Long-run Effects. Working paper 1/2020, Ministry of Finance of the Czech Republic.'
 ---
 
