@@ -7,4 +7,4 @@ venue: 'Journal of International Money and Finance'
 paperurl: 'http://bit.ly/30VNJjv'
 citation: 'Hasan, I., Horvath, R., & Mares, J. (forthcoming). Finance and Wealth Inequality. Journal of International Money and Finance.'
 ---
-
+[Online appendix](https://ies.fsv.cuni.cz/default/file/download/id/33142)
