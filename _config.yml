@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jan Mareš"
 title_separator          : "-"
-name                     : &name "Jan Mareš, Ph.D."
+name                     : &name "Jan Mareš"
 description              : &description "Charles University"
 url                      : "https://janxmares.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jan Mareš"
+  name             : "Jan Mareš, Ph.D."
   avatar           : "OK_B0A9075_sq_flip.jpg"
-  bio              : "Ph.D. candidate, Charles University"
+  bio              : "Charles University"
   location         :  "Prague, Czech Republic"
   employer         : #"Charles University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
