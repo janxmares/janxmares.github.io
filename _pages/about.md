@@ -13,6 +13,7 @@ Jan Mareš is a [junior researcher](http://ies.fsv.cuni.cz/en/staff/maresj){:tar
 Jan teaches undegraduate classes of Macroeconomics [I](https://is.cuni.cz/studium/predmety/index.php?id=94fdeac5d8c829836f77d9cc448e316f&tid=&do=predmet&kod=JEB114){:target="_blank"}, [II](https://is.cuni.cz/studium/predmety/index.php?id=94fdeac5d8c829836f77d9cc448e316f&tid=&do=predmet&kod=JEB115){:target="_blank"}, and [Principles of Economics II](https://is.cuni.cz/studium/predmety/index.php?id=94fdeac5d8c829836f77d9cc448e316f&tid=&do=predmet&kod=JEB102){:target="_blank"}. He holds master degree in economics from Charles University and was a visiting researcher at Columbia University, New York. His recent publication appeared in *The World Bank Economic Review* and he has another paper forthcoming in *Journal of International Money and Finance*.
 
 [Czech Macroeconomic Dashboard](https://janxmares.github.io/macrodash/){:target="_blank"}
+
 [Type 2 diabetes mellitus](https://jx-m.shinyapps.io/diabetes_tryout/){:target="_blank"}
 
 
