@@ -1,4 +1,4 @@
-I"
+I"´
 <p>Please find my CV here.</p>
 
 <!--
@@ -50,6 +50,29 @@ Publications
     </h3>
     
     <p class="archive__item-excerpt" itemprop="description">Hasan, I., Horvath, R., & Mares, J. (2018). What Type of Finance Matters for Growth? Bayesian Model Averaging Evidence. World Bank Economic Review, 32(2), 383-409.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/finwealth" rel="permalink">Finance and wealth inequality
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Hasan, I., Horvath, R., & Mares, J. (2020). Finance and wealth inequality. Journal of International Money and Finance, 108, 102-161.</p> 
     </li>
  </article>
 </div>

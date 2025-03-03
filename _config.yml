@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jan Mareš, Ph.D."
-  avatar           : "OK_B0A9075_sq_flip.jpg"
-  bio              : "Data Scientist, Researcher"
+  avatar           : "JAN6835-square.jpg"
+  bio              : "Research | Data | Statistical Analysis"
   location         :  "Prague, Czech Republic"
   employer         : #"Vitadio & The World Bank"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kOJO4kMAAAAJ&hl=en"
-  email            : "janxmares@fsv.cuni.cz"
+  email            : "janxmares@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jan-mares-81889643"
+  linkedin         : "jan-mares-phd"
   orcid            : "https://orcid.org/0000-0001-5809-2268"
   pinterest        :
   soundcloud       :
@@ -187,10 +187,10 @@ collections:
   wp:
     output: true
     permalink: /:collection/:path/ 
-  wip:
-    output: true
-    permalink: /:collection/:path/
-  # conferences:
+  # wip:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # # conferences:
   #   output: true
   #   permalink: /:collection/:path/
   # grants:

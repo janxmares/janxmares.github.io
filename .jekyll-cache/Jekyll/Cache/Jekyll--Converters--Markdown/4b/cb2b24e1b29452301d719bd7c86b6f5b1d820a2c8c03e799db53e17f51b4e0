@@ -1,4 +1,4 @@
-I"ê
+I"«
 <h1 id="journal-articles">Journal articles</h1>
 
 <div class="list__item">
@@ -7,7 +7,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="http://localhost:4000/forthcoming/finwealth" rel="permalink">Finance and Wealth Inequality
+        <a href="http://localhost:4000/publication/finwealth" rel="permalink">Finance and wealth inequality
 </a>
       
     </h2>
@@ -15,8 +15,8 @@
     
 
         
-          <p>Forthcoming in <i>Journal of International Money and Finance</i></p>
-        
+          <p>Published in <i>Journal of International Money and Finance</i>, 2020 </p>
+	
 
     
     <p class="archive__item-excerpt" itemprop="description"><p><a href="https://ies.fsv.cuni.cz/default/file/download/id/33142">Online appendix</a></p>
@@ -24,7 +24,7 @@
     
     
     
-      <p>Recommended citation: Hasan, I., Horvath, R., &amp; Mares, J. (forthcoming). Finance and Wealth Inequality. Journal of International Money and Finance. <a href="http://bit.ly/30VNJjv"><u>http://bit.ly/30VNJjv</u></a></p>
+      <p>Recommended citation: Hasan, I., Horvath, R., &amp; Mares, J. (2020). Finance and wealth inequality. Journal of International Money and Finance, 108, 102-161. <a href="https://doi.org/10.1016/j.jimonfin.2020.102161"><u>https://doi.org/10.1016/j.jimonfin.2020.102161</u></a></p>
     
 
   </article>

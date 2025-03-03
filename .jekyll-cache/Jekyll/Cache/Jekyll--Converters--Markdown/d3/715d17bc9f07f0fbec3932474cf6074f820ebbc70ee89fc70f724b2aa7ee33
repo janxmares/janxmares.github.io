@@ -1,19 +1,9 @@
----
-permalink: /
-title: ""
-excerpt: "About"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+I"�<p>I have experience across business, academia, and the public sector, having conducted scientific research, data analyses, and statistical modelling. I tought at the universtity level and led cross-functional teams. 
+<!-- I thrive on tackling complex challenges by looking for functional and lasting solutions.  --></p>
 
-I have experience across business, academia, and the public sector, having conducted scientific research, data analyses, and statistical modelling. I tought at the universtity level and led cross-functional teams. 
-<!-- I thrive on tackling complex challenges by looking for functional and lasting solutions.  -->
+<p>My passion lies in uncovering valuable insights from data and my interest is leadership and team development. I am an instructor at <a href="www.psl.cz">Prázdninovka</a> - Czech Experiential Learning Centre. I believe in accountability, authenticity, and attentiveness. Commit to one thing at a time, be curious, speak openly, embrace vulnerability and take responsibility for your actions. I am fluent in Czech and English.</p>
 
-My passion lies in uncovering valuable insights from data and my interest is leadership and team development. I am an instructor at [Prázdninovka](www.psl.cz) - Czech Experiential Learning Centre. I believe in accountability, authenticity, and attentiveness. Commit to one thing at a time, be curious, speak openly, embrace vulnerability and take responsibility for your actions. I am fluent in Czech and English. 
-
-Beyond work, I read and stay active through cycling, skiing, mountaineering, and swing dancing.
+<p>Beyond work, I read and stay active through cycling, skiing, mountaineering, and swing dancing.</p>
 
 <!--
 Jan Mareš is a [junior researcher](http://ies.fsv.cuni.cz/en/staff/maresj){:target="_blank"} at the Institute of Economic Studies, Charles University, Prague. His research focuses on economic growth, inequality, financial development, and tax evasion. Formerly, he worked in the economic modelling department at the Ministry of Finance of the Czech Republic. The motivation for his research is efficient and evidence based policymaking. He also enjoys tackling the pivotal questions as is inequality good or bad, what drives it, or how does finance affect world economy of today.
@@ -27,7 +17,8 @@ Apart from that, he is active within [Prázdninová škola Lipnice](www.psl.cz) 
 
 <!-- [Type 2 diabetes mellitus](https://jx-m.shinyapps.io/diabetes_tryout/){:target="_blank"} -->
 
-<a href="{{ site.baseurl }}/files/cv_janmares.pdf"><i class='ai ai-cv ai-2x'></i></a>
+<p><a href="/files/cv_janmares.pdf"><i class="ai ai-cv ai-2x"></i></a></p>
 
-### Side projects
-[Czech Macroeconomic Dashboard](https://janxmares.github.io/macrodash/){:target="_blank"}
+<h3 id="side-projects">Side projects</h3>
+<p><a href="https://janxmares.github.io/macrodash/" target="_blank">Czech Macroeconomic Dashboard</a></p>
+:ET

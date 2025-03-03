@@ -1,4 +1,4 @@
-I"H<p>A variety of common markup showing how the theme styles them.</p>
+I"øG<p>A variety of common markup showing how the theme styles them.</p>
 
 <h1 id="header-one">Header one</h1>
 
@@ -693,7 +693,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="http://localhost:4000/wip/" rel="permalink">Work-in-progress</a>
+        <a href="http://localhost:4000/wip/" rel="permalink"></a>
       
     </h2>
     

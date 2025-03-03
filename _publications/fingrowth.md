@@ -7,4 +7,3 @@ venue: 'The World Bank Economic Review'
 paperurl: 'http://bit.ly/31ZEvUX'
 citation: 'Hasan, I., Horvath, R., & Mares, J. (2018). What Type of Finance Matters for Growth? Bayesian Model Averaging Evidence. World Bank Economic Review, 32(2), 383-409.'
 ---
-

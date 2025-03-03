@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Work-in-progress"
+title: ""
 permalink: /wip/
 author_profile: true
 ---
